@@ -31,5 +31,18 @@ background-color: #28a745;
 
 .incorrect {
 background-color: #dc3545;
+}
 
+#head {
+  display: flex;
+  justify-content: space-between;
+}
+
+.head-prefix {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.head-main-text {
+  text-align: center;
 }
